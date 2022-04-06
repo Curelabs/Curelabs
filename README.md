@@ -1,7 +1,10 @@
 
 🌱 Developer from Germany with conspicuous coffee consumption
+
 📫 For questions, help or orders add me on Discord : XaTu#4549
+
 ⚡ Java and Java-Script developer with HTML and CSS knowledge. Is currently learning C#.
+
 💬 Java developer for Minecraft plugins and applications. Also make Discord bots.
 
 <!--
